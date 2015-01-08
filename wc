@@ -1,0 +1,3 @@
+wc will tell you the word count and byte size of a file e.g. wc file1
+
+Using the -l switch you can get the total number of lines instead in a file e.g. wc -l file1.
