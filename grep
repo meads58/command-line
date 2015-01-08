@@ -1,0 +1,3 @@
+This is how you search for a string inside a file/s e.g. grep ruby file.txt
+
+With the use of a wildcard you can search multiple files e.g. grep ruby "*.txt"
